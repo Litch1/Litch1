@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Litch1
-- 👀 I’m interested in Nintendo Games
+- 👀 I’m interested in Nintendo Games 
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on any interesting people
 - 📫 How to reach me ...
